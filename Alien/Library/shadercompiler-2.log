@@ -1,0 +1,22 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-2-1840
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 8 at (35): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=5346 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (35): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=5346 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (35): incorrect number of arguments to numeric-type constructor
+  api=8 type=0 insize=3290 outsize=0 kw=SPOT ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at (35): incorrect number of arguments to numeric-type constructor
+  api=8 type=1 insize=3290 outsize=0 kw=POINT ok=0
+Cmd: compileSnippet
+  error: 2 plat 4 at (35): incorrect number of arguments to numeric-type constructor
+  api=4 type=1 insize=3290 outsize=0 kw=DIRECTIONAL_COOKIE ok=0
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

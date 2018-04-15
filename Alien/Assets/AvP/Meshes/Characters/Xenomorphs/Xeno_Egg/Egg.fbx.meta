@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 32d8712cd005fcb4a9dd82fcd34b85a1
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Alien_Egg:Group1
+    100002: //RootNode
+    100004: back_ctrl
+    100006: back_joint
+    100008: front_ctrl
+    100010: front_joint
+    100012: joint1
+    100014: joint3
+    100016: joint5
+    100018: joint5 1
+    100020: joint5 2
+    100022: left_ctrl
+    100024: left_koint
+    100026: right_ctrl
+    100028: right_joint
+    400000: Alien_Egg:Group1
+    400002: //RootNode
+    400004: back_ctrl
+    400006: back_joint
+    400008: front_ctrl
+    400010: front_joint
+    400012: joint1
+    400014: joint3
+    400016: joint5
+    400018: joint5 1
+    400020: joint5 2
+    400022: left_ctrl
+    400024: left_koint
+    400026: right_ctrl
+    400028: right_joint
+    4300000: Alien_Egg:Group1
+    7400000: Open
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Alien_Egg:Group1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Open
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Alien_Egg:Group1
+        weight: 1
+      - path: back_ctrl
+        weight: 1
+      - path: front_ctrl
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/back_joint
+        weight: 1
+      - path: joint1/back_joint/joint5
+        weight: 1
+      - path: joint1/front_joint
+        weight: 1
+      - path: joint1/front_joint/joint5 1
+        weight: 1
+      - path: joint1/left_koint
+        weight: 1
+      - path: joint1/left_koint/joint3
+        weight: 1
+      - path: joint1/right_joint
+        weight: 1
+      - path: joint1/right_joint/joint5 2
+        weight: 1
+      - path: left_ctrl
+        weight: 1
+      - path: right_ctrl
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

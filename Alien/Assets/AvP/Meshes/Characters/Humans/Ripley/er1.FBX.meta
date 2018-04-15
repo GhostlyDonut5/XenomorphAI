@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 223320af9bea85445bf016296a88901e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: -AtBhair
+    100002: -mesh011
+    100004: A4hair1
+    100006: a4outfit
+    100008: Ahair1
+    100010: arm left elbow
+    100012: arm left finger 1a
+    100014: arm left finger 1b
+    100016: arm left finger 1c
+    100018: arm left finger 2a
+    100020: arm left finger 2b
+    100022: arm left finger 2c
+    100024: arm left finger 3a
+    100026: arm left finger 3b
+    100028: arm left finger 3c
+    100030: arm left finger 4a
+    100032: arm left finger 4b
+    100034: arm left finger 4c
+    100036: arm left finger 5a
+    100038: arm left finger 5b
+    100040: arm left finger 5c
+    100042: arm left shoulder 1
+    100044: arm left shoulder 2
+    100046: arm left wrist
+    100048: arm right elbow
+    100050: arm right finger 1a
+    100052: arm right finger 1b
+    100054: arm right finger 1c
+    100056: arm right finger 2a
+    100058: arm right finger 2b
+    100060: arm right finger 2c
+    100062: arm right finger 3a
+    100064: arm right finger 3b
+    100066: arm right finger 3c
+    100068: arm right finger 4a
+    100070: arm right finger 4b
+    100072: arm right finger 4c
+    100074: arm right finger 5a
+    100076: arm right finger 5b
+    100078: arm right finger 5c
+    100080: arm right shoulder 1
+    100082: arm right shoulder 2
+    100084: arm right wrist
+    100086: arms
+    100088: baska
+    100090: body
+    100092: breast left
+    100094: breast right
+    100096: //RootNode
+    100098: eyes
+    100100: hair front left
+    100102: hair front right
+    100104: handgunhandleft
+    100106: handgunhandright
+    100108: hands
+    100110: head cheek left 1
+    100112: head cheek left 2
+    100114: head cheek right 1
+    100116: head cheek right 2
+    100118: head eyeball left
+    100120: head eyeball right
+    100122: head eyebrow left 1
+    100124: head eyebrow left 2
+    100126: head eyebrow left 3
+    100128: head eyebrow right 1
+    100130: head eyebrow right 2
+    100132: head eyebrow right 3
+    100134: head eyelid left both
+    100136: head eyelid left lower
+    100138: head eyelid left upper
+    100140: head eyelid right both
+    100142: head eyelid right lower
+    100144: head eyelid right upper
+    100146: head jaw
+    100148: head lip lower left
+    100150: head lip lower middle
+    100152: head lip lower right
+    100154: head lip upper left
+    100156: head lip upper middle
+    100158: head lip upper right
+    100160: head mouth corner left
+    100162: head mouth corner right
+    100164: head neck lower
+    100166: head neck upper
+    100168: head nostril left
+    100170: head nostril right
+    100172: head tongue 1
+    100174: head tongue 2
+    100176: leg left ankle
+    100178: leg left knee
+    100180: leg left thigh
+    100182: leg left toes
+    100184: leg right ankle
+    100186: leg right knee
+    100188: leg right thigh
+    100190: leg right toes
+    100192: mouth
+    100194: pelvis
+    100196: root ground
+    100198: root hips
+    100200: spine lower
+    100202: spine upper
+    100204: thorglowbelt
+    100206: thorglowgauntletleft
+    100208: thorglowgauntletright
+    100210: tshirt
+    100212: unused003
+    100214: unused009
+    100216: unused014
+    100218: unused019
+    100220: unused033
+    100222: unused035
+    100224: unused072
+    100226: unused073
+    100228: unused074
+    100230: unused075
+    100232: unused076
+    100234: unused077
+    100236: unused097
+    100238: unused098
+    100240: unused099
+    100242: unused100
+    100244: unused101
+    100246: unused102
+    100248: unused104
+    100250: unused106
+    100252: unused107
+    100254: unused108
+    100256: unused109
+    100258: unused110
+    100260: unused111
+    100262: unused112
+    100264: unused113
+    100266: unused124
+    100268: unused125
+    100270: unused126
+    100272: unused127
+    100274: unused128
+    100276: unused129
+    100278: unused130
+    100280: unused131
+    100282: unused132
+    100284: unused133
+    100286: unused134
+    100288: unused135
+    100290: unused136
+    100292: unused137
+    100294: unused138
+    100296: unused139
+    100298: unused140
+    100300: unused141
+    100302: unused142
+    100304: unused143
+    100306: unused144
+    100308: unused145
+    100310: unused146
+    100312: unused147
+    100314: unused148
+    100316: unused149
+    100318: unused150
+    100320: unused151
+    100322: unused152
+    100324: unused153
+    400000: -AtBhair
+    400002: -mesh011
+    400004: A4hair1
+    400006: a4outfit
+    400008: Ahair1
+    400010: arm left elbow
+    400012: arm left finger 1a
+    400014: arm left finger 1b
+    400016: arm left finger 1c
+    400018: arm left finger 2a
+    400020: arm left finger 2b
+    400022: arm left finger 2c
+    400024: arm left finger 3a
+    400026: arm left finger 3b
+    400028: arm left finger 3c
+    400030: arm left finger 4a
+    400032: arm left finger 4b
+    400034: arm left finger 4c
+    400036: arm left finger 5a
+    400038: arm left finger 5b
+    400040: arm left finger 5c
+    400042: arm left shoulder 1
+    400044: arm left shoulder 2
+    400046: arm left wrist
+    400048: arm right elbow
+    400050: arm right finger 1a
+    400052: arm right finger 1b
+    400054: arm right finger 1c
+    400056: arm right finger 2a
+    400058: arm right finger 2b
+    400060: arm right finger 2c
+    400062: arm right finger 3a
+    400064: arm right finger 3b
+    400066: arm right finger 3c
+    400068: arm right finger 4a
+    400070: arm right finger 4b
+    400072: arm right finger 4c
+    400074: arm right finger 5a
+    400076: arm right finger 5b
+    400078: arm right finger 5c
+    400080: arm right shoulder 1
+    400082: arm right shoulder 2
+    400084: arm right wrist
+    400086: arms
+    400088: baska
+    400090: body
+    400092: breast left
+    400094: breast right
+    400096: //RootNode
+    400098: eyes
+    400100: hair front left
+    400102: hair front right
+    400104: handgunhandleft
+    400106: handgunhandright
+    400108: hands
+    400110: head cheek left 1
+    400112: head cheek left 2
+    400114: head cheek right 1
+    400116: head cheek right 2
+    400118: head eyeball left
+    400120: head eyeball right
+    400122: head eyebrow left 1
+    400124: head eyebrow left 2
+    400126: head eyebrow left 3
+    400128: head eyebrow right 1
+    400130: head eyebrow right 2
+    400132: head eyebrow right 3
+    400134: head eyelid left both
+    400136: head eyelid left lower
+    400138: head eyelid left upper
+    400140: head eyelid right both
+    400142: head eyelid right lower
+    400144: head eyelid right upper
+    400146: head jaw
+    400148: head lip lower left
+    400150: head lip lower middle
+    400152: head lip lower right
+    400154: head lip upper left
+    400156: head lip upper middle
+    400158: head lip upper right
+    400160: head mouth corner left
+    400162: head mouth corner right
+    400164: head neck lower
+    400166: head neck upper
+    400168: head nostril left
+    400170: head nostril right
+    400172: head tongue 1
+    400174: head tongue 2
+    400176: leg left ankle
+    400178: leg left knee
+    400180: leg left thigh
+    400182: leg left toes
+    400184: leg right ankle
+    400186: leg right knee
+    400188: leg right thigh
+    400190: leg right toes
+    400192: mouth
+    400194: pelvis
+    400196: root ground
+    400198: root hips
+    400200: spine lower
+    400202: spine upper
+    400204: thorglowbelt
+    400206: thorglowgauntletleft
+    400208: thorglowgauntletright
+    400210: tshirt
+    400212: unused003
+    400214: unused009
+    400216: unused014
+    400218: unused019
+    400220: unused033
+    400222: unused035
+    400224: unused072
+    400226: unused073
+    400228: unused074
+    400230: unused075
+    400232: unused076
+    400234: unused077
+    400236: unused097
+    400238: unused098
+    400240: unused099
+    400242: unused100
+    400244: unused101
+    400246: unused102
+    400248: unused104
+    400250: unused106
+    400252: unused107
+    400254: unused108
+    400256: unused109
+    400258: unused110
+    400260: unused111
+    400262: unused112
+    400264: unused113
+    400266: unused124
+    400268: unused125
+    400270: unused126
+    400272: unused127
+    400274: unused128
+    400276: unused129
+    400278: unused130
+    400280: unused131
+    400282: unused132
+    400284: unused133
+    400286: unused134
+    400288: unused135
+    400290: unused136
+    400292: unused137
+    400294: unused138
+    400296: unused139
+    400298: unused140
+    400300: unused141
+    400302: unused142
+    400304: unused143
+    400306: unused144
+    400308: unused145
+    400310: unused146
+    400312: unused147
+    400314: unused148
+    400316: unused149
+    400318: unused150
+    400320: unused151
+    400322: unused152
+    400324: unused153
+    4300000: -mesh011
+    4300002: mouth
+    4300004: arms
+    4300006: hands
+    4300008: thorglowgauntletleft
+    4300010: thorglowgauntletright
+    4300012: thorglowbelt
+    4300014: -AtBhair
+    4300016: eyes
+    4300018: Ahair1
+    4300020: A4hair1
+    4300022: a4outfit
+    4300024: baska
+    4300026: handgunhandleft
+    4300028: handgunhandright
+    4300030: tshirt
+    4300032: body
+    9500000: //RootNode
+    13700000: -AtBhair
+    13700002: -mesh011
+    13700004: A4hair1
+    13700006: a4outfit
+    13700008: Ahair1
+    13700010: arms
+    13700012: baska
+    13700014: body
+    13700016: eyes
+    13700018: handgunhandleft
+    13700020: handgunhandright
+    13700022: hands
+    13700024: mouth
+    13700026: thorglowbelt
+    13700028: thorglowgauntletleft
+    13700030: thorglowgauntletright
+    13700032: tshirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

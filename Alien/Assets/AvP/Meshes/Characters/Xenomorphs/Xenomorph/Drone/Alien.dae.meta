@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 0dcbb6fbf1aaa0e4c97c3a0313fbde23
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mesh0000
+    100004: mesh0001
+    100006: mesh0002
+    100008: mesh0003
+    100010: mesh0004
+    100012: mesh0005
+    100014: ValveBiped_Bip01_Head1
+    100016: ValveBiped_Bip01_L_Calf
+    100018: ValveBiped_Bip01_L_Clavicle
+    100020: ValveBiped_Bip01_L_Foot
+    100022: ValveBiped_Bip01_L_Forearm
+    100024: ValveBiped_Bip01_L_Hand
+    100026: ValveBiped_Bip01_L_Thigh
+    100028: ValveBiped_Bip01_L_Toe0
+    100030: ValveBiped_Bip01_L_UpperArm
+    100032: ValveBiped_Bip01_Neck1
+    100034: ValveBiped_Bip01_Pelvis
+    100036: ValveBiped_Bip01_R_Calf
+    100038: ValveBiped_Bip01_R_Clavicle
+    100040: ValveBiped_Bip01_R_Foot
+    100042: ValveBiped_Bip01_R_Forearm
+    100044: ValveBiped_Bip01_R_Hand
+    100046: ValveBiped_Bip01_R_Thigh
+    100048: ValveBiped_Bip01_R_Toe0
+    100050: ValveBiped_Bip01_R_UpperArm
+    100052: ValveBiped_Bip01_Spine
+    100054: ValveBiped_Bip01_Spine1
+    100056: ValveBiped_Bip01_Spine2
+    100058: ValveBiped_Bip01_Spine4
+    100060: ValveBiped_weapon_bone
+    100062: ValveBiped_weapon_bone_Clip
+    100064: ValveBiped_weapon_bone_LHand
+    100066: ValveBiped_weapon_bone_RHand
+    400000: //RootNode
+    400002: mesh0000
+    400004: mesh0001
+    400006: mesh0002
+    400008: mesh0003
+    400010: mesh0004
+    400012: mesh0005
+    400014: ValveBiped_Bip01_Head1
+    400016: ValveBiped_Bip01_L_Calf
+    400018: ValveBiped_Bip01_L_Clavicle
+    400020: ValveBiped_Bip01_L_Foot
+    400022: ValveBiped_Bip01_L_Forearm
+    400024: ValveBiped_Bip01_L_Hand
+    400026: ValveBiped_Bip01_L_Thigh
+    400028: ValveBiped_Bip01_L_Toe0
+    400030: ValveBiped_Bip01_L_UpperArm
+    400032: ValveBiped_Bip01_Neck1
+    400034: ValveBiped_Bip01_Pelvis
+    400036: ValveBiped_Bip01_R_Calf
+    400038: ValveBiped_Bip01_R_Clavicle
+    400040: ValveBiped_Bip01_R_Foot
+    400042: ValveBiped_Bip01_R_Forearm
+    400044: ValveBiped_Bip01_R_Hand
+    400046: ValveBiped_Bip01_R_Thigh
+    400048: ValveBiped_Bip01_R_Toe0
+    400050: ValveBiped_Bip01_R_UpperArm
+    400052: ValveBiped_Bip01_Spine
+    400054: ValveBiped_Bip01_Spine1
+    400056: ValveBiped_Bip01_Spine2
+    400058: ValveBiped_Bip01_Spine4
+    400060: ValveBiped_weapon_bone
+    400062: ValveBiped_weapon_bone_Clip
+    400064: ValveBiped_weapon_bone_LHand
+    400066: ValveBiped_weapon_bone_RHand
+    4300000: mesh0000
+    4300002: mesh0001
+    4300004: mesh0002
+    4300006: mesh0003
+    4300008: mesh0004
+    4300010: mesh0005
+    9500000: //RootNode
+    13700000: mesh0000
+    13700002: mesh0001
+    13700004: mesh0002
+    13700006: mesh0003
+    13700008: mesh0004
+    13700010: mesh0005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
